@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    Currently a <b>third</b> year student at <b>UNSW</b> studying a <b>Bachelor of Computer Science / Media Arts</b>.
+    Currently a <b>third</b> year student at <b>UNSW</b> studying a <b>Bachelor of Computer Science (Artificial Intelligence) / Media Arts</b>.
 </p>
 
 ---
