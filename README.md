@@ -6,6 +6,8 @@
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
 </p>
 
+---
+
 <h4 align="center", style="margin-top: 100px">
     Languages and Tools
 </h4>
