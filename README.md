@@ -3,12 +3,12 @@
 </br>
 <h3 align="center">
     <img style="height: 30px;", src="resources/wave.gif">
-    Hi, I'm Andrew
+    :slightly_smiling_face:
+    <p>Hi, I'm Andrew</p>
 </h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/andrew-yan-377a5b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
 </p>
-</br>
 </br>
 </br>
 
@@ -21,10 +21,9 @@
 ---
 
 </br>
-</br>
 <h4 align="center">
     <img style="height: 50px;", src="resources/bonk.gif">
-    Languages and Tools
+    <p>Languages and Tools</p>
 </h4>
 <p align="center" style="margin-bottom: 0">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
