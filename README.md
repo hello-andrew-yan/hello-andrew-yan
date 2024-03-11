@@ -22,7 +22,6 @@
 
 </br>
 </br>
-</br>
 <h4 align="center">
     <img style="height: 50px;", src="resources/bonk.gif">
     Languages and Tools
