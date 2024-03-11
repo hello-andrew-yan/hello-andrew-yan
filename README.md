@@ -3,7 +3,7 @@
 </br>
 <h3 align="center">
     <img style="height: 30px;", src="resources/wave.gif">
-    :slightly_smiling_face: <sup>wave back.</sup>
+    :slightly_smiling_face:
     <p>Hi, I'm Andrew</p>
 </h3>
 <p align="center">
