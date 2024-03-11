@@ -46,7 +46,6 @@
 <p align="center" style="margin-bottom: 0">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" />
     <img src="https://img.shields.io/badge/autodesk_maya-%230696D7.svg?&style=for-the-badge&logo=autodesk-maya&logoColor=white" />
-    <img src="https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=black" />
     <img src="https://img.shields.io/badge/nuke-%23000000.svg?&style=for-the-badge&logo=nuke&logoColor=white" />
 </p>
 </br>
