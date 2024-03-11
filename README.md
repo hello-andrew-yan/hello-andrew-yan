@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-    Software Engineer primarily focused on Object-Oriented Programming to create efficient and well-documented software solutions.
+    Software Engineer primarily focused on <b>Object-Oriented Programming</b> with a strong passion to create efficient and well-documented software solutions. Strong collaborator with an appreciation for the complete end-to-end process.
 </p>
 
 ---
