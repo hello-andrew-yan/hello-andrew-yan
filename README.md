@@ -3,11 +3,11 @@
 </br>
 <h3 align="center">
     <img style="height: 30px;", src="resources/wave.gif">
-    :slightly_smiling_face:
+    :slightly_smiling_face: <sup>wave back.</sup>
     <p>Hi, I'm Andrew</p>
 </h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/andrew-yan-377a5b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
+    <a href="https://www.linkedin.com/in/andrew-yan-377a5b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 </br>
 </br>
