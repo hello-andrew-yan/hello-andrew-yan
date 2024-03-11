@@ -14,11 +14,11 @@
 
 ---
 
-<p align="justify">
+<p align="center">
     Software Engineer primarily focused on <b>Object-Oriented Programming</b> with a strong passion to create efficient and well-documented software solutions. Strong collaborator with an appreciation for the complete end-to-end process.
 </p>
 
-<p align="justify">
+<p align="center">
     Currently a <b>third</b> year student at <b>UNSW</b> studying a <b>Bachelor of Computer Science / Media Arts</b>, majoring in <b>Aritificial Intelligence</b>.
 </p>
 
