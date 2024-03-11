@@ -2,7 +2,7 @@
 </br>
 </br>
 <h3 align="center">
-    <img style="height: 30px;", src="images/wave.gif">
+    <img style="height: 30px;", src="resources/wave.gif">
     Hi, I'm Andrew
 </h3>
 <p align="center">
@@ -24,6 +24,7 @@
 </br>
 </br>
 <h4 align="center">
+    <img style="height: 50px;", src="resources/bonk.gif">
     Languages and Tools
 </h4>
 <p align="center" style="margin-bottom: 0">
