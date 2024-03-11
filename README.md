@@ -26,9 +26,9 @@
 </h4>
 <p align="center" style="margin-bottom: 0">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 <p align="center" style="margin-bottom: 0">
     <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
