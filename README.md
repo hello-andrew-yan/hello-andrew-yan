@@ -20,7 +20,6 @@
 
 ---
 
-</br>
 <h4 align="center">
     <img style="height: 50px;", src="resources/bonk.gif">
     <p>Languages and Tools</p>
