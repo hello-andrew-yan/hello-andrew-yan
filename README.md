@@ -8,6 +8,9 @@
 <p align="center">
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
 </p>
+</br>
+</br>
+</br>
 
 ---
 
@@ -32,3 +35,6 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
     <img src="https://img.shields.io/badge/C%23-690081?style=for-the-badge&logo=c%23" alt="C# Badge">
 </p>
+</br>
+</br>
+</br>
