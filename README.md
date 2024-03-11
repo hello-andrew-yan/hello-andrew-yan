@@ -6,6 +6,14 @@
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
 </p>
 
+---
+
+<p align="center">
+    Software Engineer primarily focused on <b>Object-Oriented Programming</b> with a strong passion to create efficient and well-documented software solutions. Strong collaborator with an appreciation for the complete end-to-end process.
+</p>
+
+---
+
 <h4 align="center">
     Languages and Tools
 </h4>
