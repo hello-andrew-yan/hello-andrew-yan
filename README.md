@@ -7,6 +7,7 @@
     <p>Hi, I'm Andrew</p>
 </h3>
 <p align="center">
+    <a href=""><img src="https://img.shields.io/badge/portfolio-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /></a>
     <a href="https://www.linkedin.com/in/andrew-yan-377a5b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 </br>
@@ -31,6 +32,7 @@
 <p align="center" style="margin-bottom: 0">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -43,7 +45,8 @@
 </p>
 <p align="center" style="margin-bottom: 0">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/autodesk_maya-%230696D7.svg?&style=for-the-badge&logo=autodesk-maya&logoColor=white" />
+    <img src="https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=black" />
     <img src="https://img.shields.io/badge/nuke-%23000000.svg?&style=for-the-badge&logo=nuke&logoColor=white" />
 </p>
 </br>
