@@ -7,7 +7,7 @@
     <p>Hi, I'm Andrew</p>
 </h3>
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/portfolio-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /></a>
+    <a href="https://hello-andrew-yan.github.io/"><img src="https://img.shields.io/badge/portfolio-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /></a>
     <a href="https://www.linkedin.com/in/andrew-yan-377a5b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 </br>
