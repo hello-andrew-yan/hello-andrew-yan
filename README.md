@@ -11,12 +11,11 @@
     <a href="https://www.linkedin.com/in/andrew-yan-377a5b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 </br>
-</br>
 
 ---
 
-<p align="center">
-    Software Engineer primarily focused on <b>Object-Oriented Programming</b> with a strong passion to create efficient and well-documented software solutions. Strong collaborator with an appreciation for the complete end-to-end process.
+<p align="justify">
+    Software Engineer primarily focused on <code>Object-Oriented Programming</code> with a strong passion to create efficient and well-documented software solutions. Strong collaborator with an appreciation for the complete end-to-end process.
 </p>
 
 <p align="center">
@@ -49,5 +48,5 @@
     <img src="https://img.shields.io/badge/nuke-%23000000.svg?&style=for-the-badge&logo=nuke&logoColor=white" />
 </p>
 </br>
-</br>
-</br>
+
+---
