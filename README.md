@@ -2,8 +2,7 @@
 </br>
 </br>
 <h3 align="center">
-    <img src="static/wave.gif" />
-    :slightly_smiling_face:
+    <img src="https://media.tenor.com/OFkETBzqZ7IAAAAi/hi.gif" />
     <p>
       <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&duration=3000&pause=5000&color=FFCC5B&center=true&vCenter=true&width=435&lines=Hey+I'm+Andrew!;Thanks+for+stopping+by+%3A)" />
     </p>
@@ -22,7 +21,7 @@
 ---
 
 <h4 align="center">
-    <img src="static/bonk.gif" />
+    <img src="https://media.tenor.com/DMWqIb2Rdp4AAAAj/bonk-cheems.gif" />
     <p>Languages and Tools</p>
 </h4>
 <p align="center" style="margin-bottom: 0">
