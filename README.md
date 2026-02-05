@@ -2,51 +2,42 @@
 </br>
 </br>
 <h3 align="center">
-    <img style="height: 30px;", src="resources/wave.gif">
+    <img src="resources/wave.gif" width="30">
     :slightly_smiling_face:
-    <p>Hi, I'm Andrew</p>
+    <p>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&duration=3000&pause=5000&color=FFCC5B&center=true&vCenter=true&width=435&lines=Hey+I'm+Andrew!;Thanks+for+stopping+by+%3A)" />
+    </p>
 </h3>
-<p align="center">
-    <a href="https://hello-andrew-yan.github.io/portfolio"><img src="https://img.shields.io/badge/website-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /></a>
-    <a href="https://www.linkedin.com/in/andrew-yan-377a5b2b9/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
-</br>
 
 ---
 
 <p align="justify">
-    Software Engineer primarily focused on <code>Object-Oriented Programming</code> with a strong passion to create efficient and well-documented software solutions. Strong collaborator with an appreciation for the complete end-to-end process.
+    Machine Learning Engineer driven by a deep obsession with <code>clean architecture</code>, <code>maintainable code</code>, and real-world impact. I thrive on constant iteration, refining systems until they meet professional, production-grade standards.
 </p>
 
 <p align="center">
-    Currently a <b>third</b> year student at <b>UNSW</b> studying a <b>Bachelor of Computer Science (Artificial Intelligence) / Media Arts</b>.
+    Final-year UNSW student studying <a href="https://www.handbook.unsw.edu.au/undergraduate/programs/2022/3791?year=2022"><b>Computer Science (Artificial Intelligence) / Media Arts</b></a>.
 </p>
 
 ---
 
 <h4 align="center">
-    <img style="height: 50px;", src="resources/bonk.gif">
+    <img src="resources/bonk.gif" width="75">
     <p>Languages and Tools</p>
 </h4>
 <p align="center" style="margin-bottom: 0">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
 </p>
-<p align="center" style="margin-bottom: 0">
-    <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/C%23-690081?style=for-the-badge&logo=c%23" alt="C# Badge" />
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-<p align="center" style="margin-bottom: 0">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/autodesk_maya-%230696D7.svg?&style=for-the-badge&logo=autodesk-maya&logoColor=white" />
-    <img src="https://img.shields.io/badge/nuke-%23000000.svg?&style=for-the-badge&logo=nuke&logoColor=white" />
-</p>
-</br>
 
----
+<p align="center" style="margin-bottom: 0">
+    <img src="https://img.shields.io/badge/Nuke-000000?style=flat&logo=nuke&logoColor=FDC841" />
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
+    <img src="https://img.shields.io/badge/Autodesk%20Maya-0696D7?style=flat&logo=autodesk-maya&logoColor=white" />
+</p>
+
