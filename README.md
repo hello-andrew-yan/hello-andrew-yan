@@ -3,7 +3,6 @@
 </br>
 </br>
 </br>
-</br>
 <h3 align="center">
     <img src="https://media.tenor.com/OFkETBzqZ7IAAAAi/hi.gif" />
     <p>
@@ -41,8 +40,7 @@
 <h4 align="center">
     <img src="https://media.tenor.com/wtv7ADhTUD4AAAAi/dance-happy.gif" />
     <p>How I feel when coding</p>
-    <a href="https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL?si=e7745d708a8845c4">
-      <img src="https://img.shields.io/badge/5 Years Time | Noah and the Whale-1DB954?style=flat&logo=spotify&logoColor=white">
+    <a href="https://open.spotify.com/track/6NJQpFNkDCMaRBogIi9sOI?si=6d076aebc9d94236">
+      <img src="https://img.shields.io/badge/Bellbottoms | The Jon Spencer Blues Explosion-1DB954?style=flat&logo=spotify&logoColor=white" />
     </a>
 </h4>
-
