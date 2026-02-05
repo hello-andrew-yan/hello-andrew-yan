@@ -7,9 +7,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&duration=3000&pause=5000&color=FFCC5B&center=true&vCenter=true&width=435&lines=Hey+I'm+Andrew!;Thanks+for+stopping+by+%3A)" />
     </p>
 </h3>
-
----
-
 <p align="justify">
     Machine Learning Engineer driven by a deep obsession with <code>clean architecture</code>, <code>maintainable code</code>, and real-world impact. I thrive on constant iteration, refining systems until they meet professional, production-grade standards.
 </p>
