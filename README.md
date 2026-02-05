@@ -1,6 +1,9 @@
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 <h3 align="center">
     <img src="https://media.tenor.com/OFkETBzqZ7IAAAAi/hi.gif" />
     <p>
@@ -10,7 +13,6 @@
 <p align="justify">
     Machine Learning Engineer driven by a deep obsession with <code>clean architecture</code>, <code>maintainable code</code>, and real-world impact. I thrive on constant iteration, refining systems until they meet professional, production-grade standards.
 </p>
-
 <p align="center">
     Final-year UNSW student studying <a href="https://www.handbook.unsw.edu.au/undergraduate/programs/2022/3791?year=2022"><b>Computer Science (Artificial Intelligence) / Media Arts</b></a>.
 </p>
@@ -29,11 +31,18 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
 </p>
-
 <p align="center" style="margin-bottom: 0">
     <img src="https://img.shields.io/badge/Nuke-000000?style=flat&logo=nuke&logoColor=FDC841" />
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
     <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
     <img src="https://img.shields.io/badge/Autodesk%20Maya-0696D7?style=flat&logo=autodesk-maya&logoColor=white" />
 </p>
+
+<h4 align="center">
+    <img src="https://media.tenor.com/wtv7ADhTUD4AAAAi/dance-happy.gif" />
+    <p>How I feel when coding</p>
+    <a href="https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL?si=e7745d708a8845c4">
+      <img src="https://img.shields.io/badge/5 Years Time | Noah and the Whale-1DB954?style=flat&logo=spotify&logoColor=white">
+    </a>
+</h4>
 
