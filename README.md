@@ -13,7 +13,6 @@
     <p align="center">
         Final-year UNSW student studying <a href="https://www.handbook.unsw.edu.au/undergraduate/programs/2022/3791?year=2022"><b>Computer Science (Artificial Intelligence) / Media Arts</b></a>.
     </p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hello-andrew-yan&theme=github_dark" alt="Andrew's GitHub Stats"/>
 </div>
 
 <hr />
@@ -43,4 +42,7 @@
     <a href="https://open.spotify.com/track/6NJQpFNkDCMaRBogIi9sOI?si=6d076aebc9d94236">
       <img src="https://img.shields.io/badge/Bellbottoms | The Jon Spencer Blues Explosion-1DB954?style=flat&logo=spotify&logoColor=white" />
     </a>
+    <p>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hello-andrew-yan&theme=github_dark" alt="Andrew's GitHub Stats"/>
+    </p>
 </div>
